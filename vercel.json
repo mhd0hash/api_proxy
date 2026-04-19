@@ -1,7 +1,7 @@
 {
   "functions": {
     "api_proxy.py": {
-      "runtime": "python@3.11"
+      "runtime": "python@3.9"
     }
   },
   "routes": [
