@@ -1,13 +1,8 @@
-{
-  "functions": {
-    "api_proxy.py": {
-      "runtime": "python@3.9"
-    }
-  },
-  "routes": [
     {
-      "src": "/api/proxy",
-      "dest": "/api_proxy.py"
+      "routes": [
+        {
+          "src": "/api/proxy",
+          "dest": "/api_proxy.py"
+        }
+      ]
     }
-  ]
-}
