@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/app.py": {
+    "api_proxy.py": {
       "runtime": "python3.11"
     }
   },
