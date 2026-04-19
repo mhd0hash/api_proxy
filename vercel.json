@@ -6,7 +6,7 @@
       },
       "routes": [
         {
-          "src": "/api/proxy",
+          "src": "/api_proxy",
           "dest": "/api_proxy.py"
         }
       ]
