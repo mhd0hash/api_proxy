@@ -1,4 +1,9 @@
-    {
+{
+      "functions": {
+        "api_proxy.py": {
+          "runtime": "python"
+        }
+      },
       "routes": [
         {
           "src": "/api/proxy",
